@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hide Flat Rate Woocommerce Addon
 Plugin URI: 
-Description: A plugin to hide flat rate when delivery price is free.
+Description: A plugin to hide flat rate when the delivery fee is free.
 Author: dkong
 Version: 1.0
 Author URI: 
